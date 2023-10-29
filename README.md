@@ -46,6 +46,7 @@ This project generates visualizations, such as:
 ## Resources
 
 https://www.kaggle.com/datasets/zedataweaver/global-salary-data
+
 https://seaborn.pydata.org/tutorial/color_palettes.html
 
 
